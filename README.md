@@ -2,5 +2,5 @@
 
 * Julia - hajnowski
 * Jakub - chełmski
-* Maciej - kutnowski
+
 
